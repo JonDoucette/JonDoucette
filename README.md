@@ -14,7 +14,7 @@ If you are interested in talking about information management, programs, or data
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/jonathan-doucette" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Jonathan Doucette" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/jonathan-doucette" target="blank"><img align="center" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="Jonathan Doucette" height="30" width="40" /></a>
 </p>
 
 <hr>
