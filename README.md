@@ -26,7 +26,7 @@ If you are interested in talking about information management, programs, or data
 <p> <img align="center" src="https://github-readme-stats-jondoucette.vercel.app/api/top-langs?username=JonDoucette&show_icons=true&locale=en&layout=compact&theme=dark&count_private=true" alt="JonDoucette" /><p>
 <br>
   
-<p><img align="center" src="https://github-readme-stats-jondoucette.vercel.app/api?username=JonDoucette&show_icons=true&locale=en&theme=dark&count_private=true&hide=stars,contribs" alt="JonDoucette" /></p>
+<!--<p><img align="center" src="https://github-readme-stats-jondoucette.vercel.app/api?username=JonDoucette&show_icons=true&locale=en&theme=dark&count_private=true&hide=stars,contribs" alt="JonDoucette" /></p>
 
 <!--
 https://github-readme-streak-stats.herokuapp.com/?user=JonDoucette
